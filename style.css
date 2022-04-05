@@ -21,6 +21,17 @@ header
     box-shadow: -10px 10px 20px black;
 }
 
+nav a
+{
+
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 20px;
+    margin-left: 5px;
+    
+}
+
 #minha_foto
 {
 
