@@ -23,6 +23,12 @@ header
     z-index: 10;
 }
 
+article
+{
+
+    line-height: 16px;
+}
+
 nav a
 {
 
