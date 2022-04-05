@@ -3,6 +3,9 @@ body
 
     background-color: rgb(253, 251, 251);
     margin: 0px;
+    padding-top: 140px;
+    overflow-x: hidden;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header
@@ -10,4 +13,17 @@ header
 
     position: fixed;
     top: 0px;
+    width: 100%;
+    background-color: rgb(3, 71, 20);
+    color: white;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    box-shadow: -10px 10px 20px black;
+}
+
+#minha_foto
+{
+
+    width: 300px;
+    border-radius: 5px;
 }
