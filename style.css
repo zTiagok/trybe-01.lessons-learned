@@ -36,8 +36,69 @@ nav a
     text-decoration: none;
     font-weight: bold;
     padding-left: 20px;
-    margin-left: 5px;
-    
+    margin-left: 5px; 
+}
+
+section
+{
+
+    width: fit-content;
+}
+
+section h2
+{
+
+    border: 3px solid rgb(4, 109, 51);
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+ol
+{
+
+    position: relative;
+    border: 3px solid rgb(5, 168, 79);
+    width: 150px;
+    display: inline-block;
+    user-select: none;
+}
+
+ul
+{
+
+    position: relative;
+    border: 3px solid rgb(5, 168, 79);
+    width: 150px;
+    display: inline-block;
+    user-select: none;
+}
+
+.lado-esquerdo
+{
+
+    float: left;
+    border: 2px solid red;
+    width: 392px;
+    margin-top: ;
+}
+
+.lado-direito 
+{
+
+    float: right;
+    border: 2px solid green;
+    width: 300px;
+    margin-right: 980px;
+}
+
+table
+{
+
+    position: relative;
+    border: 3px solid orange;
+    top: -540px;
+    left: -70px;
+    text-align: center;
 }
 
 #minha_foto
@@ -48,4 +109,17 @@ nav a
     width: 300px;
     border-radius: 5px;
     z-index: 2;
+}
+
+footer
+{
+
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    top: 782px;
+    z-index: 100;
+    user-select: none;
+    background-color: rgb(3, 71, 20);
+    color: white;
 }
