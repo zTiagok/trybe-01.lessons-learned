@@ -6,7 +6,9 @@
   "scripts": {
     "test": "cypress run",
     "lint:styles": "stylelint **/*.css --config .stylelintrc.json --ignore-disables --allow-empty-input",
-    "cypress:open": "cypress open"
+    "cypress:open": "cypress open",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/tryber/sd-03-week3-html-css-project-tests/issues"
   },
-  "homepage": "https://github.com/tryber/sd-03-week3-html-css-project-tests#readme",
+  "homepage": "https://ztiagok.github.io/lessons-learned",
   "devDependencies": {
     "cypress": "^5.0.0",
     "cypress-multi-reporters": "^1.2.3",
@@ -29,4 +31,5 @@
     "stylelint": "^13.8.0",
     "stylelint-config-standard": "^20.0.0"
   }
+  
 }
