@@ -20,31 +20,42 @@
     ℹ️ Information ℹ️
   </h3>
   <br>
-  <span> The Riot Games launcher made with React, Redux and Base CSS. </span> 
+  <span> Text </span> 
   
-  <span> Riot Games is an American company that focuses on competitive games, such as League of Legends, Valorant and Teamfight Tactics. It was founded in September 2006 and it's one of the greatest game companies on the actual days. </span>
+  <span> Phrase </span>
   
-  <span> My objective is to try to replicate their launcher but adding other features, such as a register page directly on the launcher. I'll try to add other ideas that comes to my mind as I develop this project. </span>
+  <span> Objective </span>
+  <br>
+  <hr>
+  <h3>
+    ⭐ Requirements ⭐
+  </h3>
+  <div align="left">
+  <br>
+  
+- [X] 1. Add a specific background color to the page.
+- [X] 2. Add a header with a title.
+- [X] 3. Add your photo to the page.
+- [X] 4. Add a learned lessons list to the page.
+- [X] 5. Create a list with lessons that you wanna learn.
+- [X] 6. Add a footer.
+- [X] 7. Add at least one external link to the page.
+- [X] 8. Create an article about your learnings.
+- [X] 9. Create a section that tells something about your learnings.
+- [X] 10. Apply HTML elements that agree with their purposes.
+- [X] 11. Test if your page its approved in CodeSniffer.
+- [X] 12. Add a table to the page.
+- [X] 13. Usa the box model.
+- [X] 14. Change attributes related to the page font.
+- [X] 15. Put your article and section next to each other.
+  </div>
   <br>
   <hr>
   <h3>
     📄 Pages and Components 📄
   </h3>
   <br>
-  <details>
-    <summary> Pages </summary>
-    <br>
-    <span> ◐ Sign In ◑ </span> <br>
-    <span> ◐ Sign Up ◑ </span> <br>
-    <span> ◐ 404 Error ◑ </span> <br>
-    <span> More to be added... </span> <br> <br>
-  </details>
-   <details>
-    <summary> Components </summary>
-    <br>
-    <span> ◐ Loading ◑ </span> <br>
-    <span> More to be added... </span> <br>
-  </details>
+  <span> Basic HTML
   <br>
   <hr>
   <h3>
@@ -58,37 +69,17 @@
     </thead>
     <tbody>
       <tr>
-        <td> React </td>
-        <td> 18.2.0 </td>
-      </tr>
-      <tr>
-        <td> React Router </td>
-        <td> 5.3.3 </td>
-      </tr>
-      <tr>
-        <td> Redux </td>
-        <td> 4.2.0 </td>
+        <td> - </td>
+        <td> - </td>
       </tr>
     </tbody>
   </table>
   <br>
   <hr>
   <h3>
-    💡 Future Ideas 💡
-  </h3>
-  <br> 
-  <div align="left">
-  <p> 01) Adding a "system" that saves the account registered on the Local Storage to simulate a DB. </p>
-  <p> 02) Login can only be done after registering the account on the Local Storage. </p>
-  </div>
-  <br>
-  <hr>
-  <h3>
-    📝 References 📝
+    🌐 References 🌐
   </h3>
     <br>
-    <p> <a href="https://www.riotgames.com/"> Riot Games Website </a> </p>
-    <p> <a href="https://www.riotgames.com/en/who-we-are"> About Riot Games </a> </p>
-    <p> <a href="https://www.youtube.com/watch?v=lJpFVPBO7-g"> Launcher Youtube Video </a> </p>
+    <p> <a href="https://www.betrybe.com/"> Trybe Website </a> </p>
 </div>
 
