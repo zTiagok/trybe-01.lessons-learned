@@ -1,4 +1,7 @@
 <div align="center">
+  <h3>
+    Check out this project <a href="https://ztiagok.github.io/trybe-01.lessons-learned"> website</a>! 
+  <h3>
   <h2>
     Lessons Learned
     <br><br>
@@ -10,8 +13,6 @@
   >
   > Version: - 🧪
   >
-  > GitHub Pages: <a href="https://ztiagok.github.io/trybe-01.lessons-learned/"> Lessons Learned </a> 🖼️ </span> <br>
-  >
   > Developers: Tiago Braga Costa 👤
 
   <br>
@@ -21,7 +22,7 @@
   </h3>
   <br>
   <span> My first project with Trybe, using only HTML and CSS </span> 
-  
+  <br><br>
   <span> Our objective was to create a page from scratch, using only HTML, CSS and all that they had taught us. </span>
   <br>
   <hr>
