@@ -20,11 +20,9 @@
     ℹ️ Information ℹ️
   </h3>
   <br>
-  <span> Text </span> 
+  <span> My first project with Trybe, using only HTML and CSS </span> 
   
-  <span> Phrase </span>
-  
-  <span> Objective </span>
+  <span> Our objective was to create a page from scratch, using only HTML, CSS and all that they had taught us. </span>
   <br>
   <hr>
   <h3>
@@ -55,7 +53,7 @@
     📄 Pages and Components 📄
   </h3>
   <br>
-  <span> Basic HTML
+  <span> Basic HTML and CSS
   <br>
   <hr>
   <h3>
