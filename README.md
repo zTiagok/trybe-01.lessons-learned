@@ -23,7 +23,7 @@
   <br>
   <span> My first project with Trybe, using only HTML and CSS </span> 
   <br><br>
-  <span> Our objective was to create a profile page from scratch, using only HTML, CSS and all that they had taught us. </span>
+  <span> Our objective was to create a profile page from scratch, using only HTML, CSS and all that Trybe taught us. </span>
   <br>
   <hr>
   <h3>
