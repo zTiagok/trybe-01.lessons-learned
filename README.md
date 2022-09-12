@@ -54,7 +54,7 @@
     📄 Features 📄
   </h3>
   <br>
-  <span> ◐ A simple site made without many features ◑ </span>
+  <span> ◐ A simple site made without many features. ◑ </span>
   <br>
   <hr>
   <h3>
