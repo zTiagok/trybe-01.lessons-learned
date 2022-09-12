@@ -51,10 +51,10 @@
   <br>
   <hr>
   <h3>
-    📄 Pages and Components 📄
+    📄 Features 📄
   </h3>
   <br>
-  <span> Basic HTML and CSS
+  <span> ◐ A simple site made without many features ◑ </span>
   <br>
   <hr>
   <h3>
